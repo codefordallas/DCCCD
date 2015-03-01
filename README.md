@@ -3,7 +3,7 @@ Making the Dallas County Community College District data more useful
 
 ## Goals
 
-To open up the data from the DCCCD website, to provide DCCCD with useful suggestions to make their data more helpful / accessible, and to help provide more useful information to Dallas County residents and DCCCD students
+To open up the data from the DCCCD website, to provide DCCCD with useful suggestions to make their data more helpful / accessible, and to help provide more useful information to Dallas County residents and DCCCD students. Ideas? Suggestions? Create an issue.
 
 ## Projects
 
